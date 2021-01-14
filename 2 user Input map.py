@@ -76,10 +76,10 @@ print("Now graphs will be plotted on",n1,"'s",'and',n2,"'s",'marks.')
 plt.plot(subjects,mr1,label=n1)
 plt.plot(subjects,mr2,label=n2)
 
-#plt.bar(subjects,mr1,label=n1)
+#plt.bar(subjects,mr1,label=n1)  #makes a bargraph on given data
 #plt.bar(subjects,mr2,label=n2)
 
-#plt.scatter(subjects,mr1,label=n1)
+#plt.scatter(subjects,mr1,label=n1)   # scatter points 
 #plt.scatter(subjects,mr2,label=n2)
 
 #plt.pie(subjects,mr1)#,label=n1
